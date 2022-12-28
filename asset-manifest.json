@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/101GameScore/static/css/main.cf861cd5.css",
+    "main.js": "/101GameScore/static/js/main.59cf9884.js",
+    "static/js/787.76206227.chunk.js": "/101GameScore/static/js/787.76206227.chunk.js",
+    "index.html": "/101GameScore/index.html",
+    "main.cf861cd5.css.map": "/101GameScore/static/css/main.cf861cd5.css.map",
+    "main.59cf9884.js.map": "/101GameScore/static/js/main.59cf9884.js.map",
+    "787.76206227.chunk.js.map": "/101GameScore/static/js/787.76206227.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf861cd5.css",
+    "static/js/main.59cf9884.js"
+  ]
+}
